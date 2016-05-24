@@ -6,9 +6,9 @@ color:
   saturation: 0.45143221667967737
   rhythmicContrast: 0.46830853121355176
   brandColors:
-    - '#334D5C'
-    - '#45B29D'
-    - '#EFC94C'
-    - '#E27A3F'
-    - '#DF5A49'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: sasha
