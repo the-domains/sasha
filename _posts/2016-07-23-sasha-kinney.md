@@ -37,13 +37,12 @@ app_links:
     namespace: google
     type: android
 title: Sasha Kinney
-datePublished: '2016-07-23T18:10:52.232Z'
-dateModified: '2016-05-24T13:22:32.414Z'
-starred: false
+datePublished: '2016-07-23T18:16:30.033Z'
+dateModified: '2016-07-23T18:16:29.351Z'
 sourcePath: _posts/2016-07-23-sasha-kinney.md
-inFeed: true
+via: {}
 hasPage: true
-inNav: false
+starred: false
 url: sasha-kinney/index.html
 _type: Article
 _context: 'http://schema.org'
