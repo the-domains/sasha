@@ -1,4 +1,3 @@
-layout_spectrum: 0.7916220549959689
 typography_spectrum: 0.854922597296536
 color:
   brandStrength: 0.41516783833503723
@@ -11,6 +10,12 @@ color:
     - '#EFC94C'
     - '#E27A3F'
     - '#DF5A49'
-name: sasha
+layout_spectrum: 0.7916220549959689
 author:
   email: sasha@kenyanikwetu.org
+name: sasha
+navigation:
+  - id: 746edb0e-7fca-4b51-8e83-906856de0a84
+    url: 2016-07-23-hi.html
+    name: hi
+    type: content
