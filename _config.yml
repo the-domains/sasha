@@ -31,3 +31,7 @@ navigation:
     url: 2016-07-23-hi.html
     name: greens
     type: content
+  - id: 'https://storify.com/knk'
+    url: 'https://storify.com/knk'
+    name: Storify KNK
+    type: external
