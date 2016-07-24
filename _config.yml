@@ -27,3 +27,7 @@ navigation:
     url: 2016-07-23-storify-create-stories-using-social-media.html
     name: Storify - Create stories using social media
     type: content
+  - id: 746edb0e-7fca-4b51-8e83-906856de0a84
+    url: 2016-07-23-hi.html
+    name: greens
+    type: content
